@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: auto;
+}
+
+main {
+    width: 80%;
+}
+
+.taroloElem {
+    display: grid;
+    grid-template-columns: auto;
+}
